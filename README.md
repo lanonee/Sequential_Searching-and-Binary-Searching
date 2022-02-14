@@ -1,1 +1,5 @@
-[haloo](https://github.com/lanonee/Sequential_Searching-and-Binary-Searching/edit/main/README.md)
+[Sequential Searchinig](https://github.com/lanonee/Sequential_Searching-and-Binary-Searching/edit/main/README.md)
+[](https://github.com/lanonee/Sequential_Searching-and-Binary-Searching/edit/main/README.md)
+[](https://github.com/lanonee/Sequential_Searching-and-Binary-Searching/edit/main/README.md)
+[](https://github.com/lanonee/Sequential_Searching-and-Binary-Searching/edit/main/README.md)
+[](https://github.com/lanonee/Sequential_Searching-and-Binary-Searching/edit/main/README.md)
