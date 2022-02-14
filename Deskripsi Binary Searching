@@ -1,0 +1,6 @@
+Binary Searching memiliki syarat untuk melakukan pencarian yaitu data sudah urut, jika data belum urut pencarian tidak dapat
+dilakukan. cara melakukan binary searching yaitu Mula-mula diambil posisi awal 0 dan posisi akhir = N - 1,kemudian 
+dicari posisi data tengah dengan rumus (posisi awal + posisi akhir)/2. Kemudian data yang dicari dibandingkan dengan data 
+tengah. Jika lebih kecil, proses dilakukan kembali tetapi posisi akhir dianggap sama dengan posisi tengah –1. Jika lebih 
+besar, proses dilakukan kembali tetapi posisi awal dianggap sama dengan posisi tengah + 1. Demikian seterusnya sampai 
+data tengah sama dengan yang dicari.
